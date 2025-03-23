@@ -1,4 +1,4 @@
-# XMV2
+# le-isu
 
 官网：[https://web.le-isu.com](https://web.le-isu.com)
 
